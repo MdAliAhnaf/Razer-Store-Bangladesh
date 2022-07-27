@@ -1,3 +1,5 @@
+                        >>>>>>>>>>> Website Name: Razer Store Bangladesh <<<<<<<<<<<
+
 Project Description:
 The purpose of the project is to deliver authentic Razer products (which is shipped from the US) through a user-friendly, strong security, reliable purchase system which will be provided through the webpage Razer Store Bangladesh. Therefore, not only gamers, office-workplace users but also the people who seek for authentic razer products at a reasonable price can purchase without any hesitation or discomfort. The webpage is secured through proper PHP-validation, JavaScript and the resources are protected via appropriate Session-Cookie implementation. Lastly to prevent SQL injection prepared statement was implemented.
 
