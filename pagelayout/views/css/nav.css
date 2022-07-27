@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+header{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+}
+
+li, a, button{
+      font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      color: #edf0f1;
+      text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px 5%;
+}
+li, a{
+    order:3;
+    margin-left: auto;
+}
+nav{
+    order: 1;
+}
+.nav__links{
+   list-style: none; 
+}
+.nav__links li{
+   display: inline-block; 
+   padding: 0px 20px;
+}
+.nav__links li a{
+   transition: all 0.3s ease 0s;
+}
+.nav__links li:nth-child(1){
+    display: inline-block; 
+    padding: 0 20px 0 0;
+ }
+.nav__links li a:hover{
+  color: #0088a9;
+}
+.cta{
+    order: 2;
+}
+
+button{
+    margin-left: 20px;
+    padding: 9px 25px;
+    background-color: rgba(0,136,169,1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+button:hover{
+    background-color: rgba(0,136,169,0.8);
+}
+
+.cta button{background-image: linear-gradient(to right, #1A2980 0%, #26D0CE  51%, #1A2980  100%)}
+.cta button {
+    font-family: 'Open Sans', sans-serif;
+      font-weight: 500;
+      font-size: 14px;
+    margin-left: 20px;
+    padding: 9px 25px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;
+   box-shadow: 0 0 20px rgb(0, 0, 0);            
+   border-radius: 50px;
+   cursor: pointer;
+    transition: all 0.3s ease 0s;
+  
+ }
+
+ .cta button:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+.form-control-login button{background-image: linear-gradient(to right, #36D1DC 0%, #5B86E5  51%, #36D1DC  100%)}
+.form-control-login button {
+    font-family: 'Open Sans', sans-serif;
+      font-weight: 500;
+      font-size: 14px;
+    margin-left: 20px;
+    padding: 9px 25px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;
+   box-shadow: 0 0 20px #eee;          
+   border-radius: 50px;
+   cursor: pointer;
+  transition: all 0.3s ease 0s;
+  
+ }
+
+ .form-control-login button:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+
+ .form-reset-control button{background-image: linear-gradient(to right, #DC2424 0%, #4A569D  51%, #DC2424  100%)}
+ .form-reset-control button{
+   margin: 10px;
+  padding: 15px 45px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+text-align: center;
+text-transform: uppercase;
+transition: 0.5s;
+background-size: 200% auto;
+color: white;
+box-shadow: 0 0 20px #eee;          
+border-radius: 50px;
+cursor: pointer;
+transition: all 0.3s ease 0s;
+  }
+
+  .form-reset-control button:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+.form #reset1{background-image: linear-gradient(to right, #403A3E 0%, #BE5869  51%, #403A3E  100%)}  
+.form #reset1 {
+  font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+  margin-left: 20px;
+  padding: 9px 25px;
+ text-align: center;
+ text-transform: uppercase;
+ transition: 0.5s;
+ background-size: 200% auto;
+ color: white;
+ box-shadow: 0 0 20px rgb(255, 255, 255);            
+ border-radius: 50px;
+ cursor: pointer;
+  transition: all 0.3s ease 0s;
+
+}
+
+.form #reset1:hover {
+ background-position: right center; /* change the direction of the change here */
+ color: #fff;
+ text-decoration: none;
+}
+
+     
+.form #s1{background-image: linear-gradient(to right, #DCE35B 0%, #45B649  51%, #DCE35B  100%)}
+.form #s1 {
+  font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+  margin-left: 20px;
+  padding: 9px 25px;
+ text-align: center;
+ text-transform: uppercase;
+ transition: 0.5s;
+ background-size: 200% auto;
+ color: white;
+ box-shadow: 0 0 20px rgb(255, 255, 255);            
+ border-radius: 50px;
+ cursor: pointer;
+  transition: all 0.3s ease 0s;
+
+}
+
+.form #s1:hover {
+ background-position: right center; /* change the direction of the change here */
+ color: #fff;
+ text-decoration: none;
+}
+.form #cp1{background-image: linear-gradient(to right, #4CB8C4 0%, #3CD3AD  51%, #4CB8C4  100%)}
+.form #cp1 {
+  margin: 10px;
+  padding: 15px 45px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+text-align: center;
+text-transform: uppercase;
+transition: 0.5s;
+background-size: 200% auto;
+color: white;
+box-shadow: 0 0 20px #eee;          
+border-radius: 50px;
+cursor: pointer;
+transition: all 0.3s ease 0s;
+
+}
+
+.form #cp1:hover {
+ background-position: right center; /* change the direction of the change here */
+ color: #fff;
+ text-decoration: none;
+}
