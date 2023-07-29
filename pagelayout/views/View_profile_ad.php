@@ -113,6 +113,6 @@ padding: 0 46.8%;
       </div>
 </div>
 </body>
-<div><br><br><br></div>
+<div><br><br><br><br><br><br></div>
+<footer><?php include '../views/include_require/footer.php'; ?></footer>
 </html>
-<?php include '../views/include_require/footer.php'; ?>

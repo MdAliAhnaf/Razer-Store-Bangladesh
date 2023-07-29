@@ -42,24 +42,30 @@
  </p>
  
  <p class="footer-company-name"> Copyright &copy; <?php echo " 2021-". date("Y")." Razer Store BD Inc. All rights reserved.";?></p>
- </div>
+</div>
  
- <div class="footer-center">
+<div class="footer-center">
  
- <div>
+<div>
  <i class="fa fa-map-marker"></i>
  <p><span>NHA-11, Doyel Tower, Lalmatia</span> Dhaka, Bangladesh</p>
- </div>
+</div>
  
- <div>
+<div>
  <i class="fa fa-phone"></i>
  <p>+880 01775752822</p>
- </div>
- 
- <div>
+</div>
+  
+<div>
+ <i class="fa fa-globe"></i>
+ <p><a href="https://mdaliahnaf.github.io/">https://mdaliahnaf.github.io</a></p>
+</div>
+
+<div>
  <i class="fa fa-envelope"></i>
- <p><a href="mailto:aliahnaf2012@gmail.com">www.about.me/Md.AliAhnaf</a></p>
- </div>
+ <p><a href="mailto:aliahnaf2012@gmail.com">Mail to aliahnaf2012@gmail.com</a></p>
+</div>
+
  
  </div>
  

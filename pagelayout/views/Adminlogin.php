@@ -1,6 +1,5 @@
 <?php 
-require 'include_require/header.php'; 
-require 'Navbar.php';
+require 'include_require/header.php';
     
     /*session_start();*/
 

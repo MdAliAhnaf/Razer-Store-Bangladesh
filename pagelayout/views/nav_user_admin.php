@@ -40,9 +40,9 @@
          <li>
           <a class="nav-link active" aria-current="page" href="../controller/manage_all.php">ADMIN Panel Searching</a>
         </li>
-        <li>
+        <!-- <li>
           <a class="nav-link active" aria-current="page" href="../controller/user_list.php">Admin Panel Search Result</a>
-        </li>
+        </li> -->
         <li>
           <a class="nav-link active" aria-current="page" href="../controller/Logout_Admin.php">Log Out</a>
         </li>

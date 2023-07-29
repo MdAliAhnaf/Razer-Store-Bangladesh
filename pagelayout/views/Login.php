@@ -1,6 +1,5 @@
 <?php 
 require 'include_require/header.php'; 
-require 'Navbar.php';
     
     /*session_start();*/
     if (isset($_SESSION['username']) && ($_SESSION['username']) != "") {

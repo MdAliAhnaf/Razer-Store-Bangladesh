@@ -122,6 +122,6 @@ padding: 0 46.8%;
     </div>
   </div>
 <div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
-<?php require 'include_require/footer.php'; ?>  
+<footer> <?php require 'include_require/footer.php'; ?>  </footer>
 </body>
 </html>
