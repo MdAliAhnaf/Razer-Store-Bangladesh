@@ -179,3 +179,16 @@ In the cart user can select the quantity of their desired item and also can remo
  <img src="img_for_readme/11_order-history.png">
 
 Lastly after checkout, in this page user can see their Order history that was placed according to its order ID No#.
+
+ <img src="img_for_readme/12_admin-login.png">
+
+Admin can login with proper and valid credentials to gain access.
+N.B. Admin can’t login if blank or invalid data in the form it is validated through php and js valdiation.
+
+ <img src="img_for_readme/13_admin-profile_details.png">
+
+Admin can see his profile data after logging in Admin Profile Section.
+
+ <img src="img_for_readme/14_search-user_data.png">
+
+In Admin Panel Searching Section, Admin can Search user data using php onload-function through inner-html XMLHttpRequest via jscript.
