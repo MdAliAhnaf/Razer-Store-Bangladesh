@@ -65,6 +65,7 @@ In this project the “Admin” has the following features:
 •	Forget Password.
 •	Without login with proper Admin name and password cannot access to account by using session which is protecting the resource. Moreover, after logout session ends hence user needs to login again to gain access to the account.
 •	Remember me while login using Cookie which is only stored for 10 second time interval.
+•	Search user data using onload-function through inner-html XMLHttpRequest via jscript.
 •	Insert, Update, Delete of User’s data
 
 Impact of this Project:
@@ -112,3 +113,69 @@ Possible Future Improvements:
 •	Restocking products before it stocks out
 •	Including CSS to control the presentation of an HTML document, text color, font style, sizing of columns, layout design and so on.
 
+Design:
+ 
+<img src="img_for_readme/design.png">
+
+Tools Used:
+
+To develop this project, I have used the following:
+
+•  ApacheFriends XAMPP Version 7.4.27	
+• Apache 2.4.52
+• PHP 7.4.27 (VC15 X86 64bit thread safe) + PEAR
+• XAMPP Control Panel Version 3.3.0.
+• Bootstrap v5.0	.
+• Sublime Text 4 (Build 4126)
+• Visual Studio Code Version 1.65
+
+System Images against the Specification:
+
+ <img src="img_for_readme/1_home.png">
+
+This is the homepage of Razer Store Bangladesh.
+
+ <img src="img_for_readme/2_store.png">
+
+User can choose their desired products from the store which will automatically be added to the cart.
+N.B. User can’t add the same item more than once.
+
+ <img src="img_for_readme/3_comment-section.png">
+
+Using Ajax load function and fetching comments data using mysqli_query. Viewer can see the products positive/negative feedbacks on the website's comment section.
+
+ <img src="img_for_readme/4_comment-validation-footer.png">
+
+Viewer can comment and send their feedbacks under the comment section.
+N.B. User can’t send blank or invalid text in the form it is validated through php and js valdiation.
+
+ <img src="img_for_readme/5_user-validation.png">
+
+User can login with proper and valid credentials to gain access.
+N.B. User can’t login if blank or invalid data in the form it is validated through php and js valdiation.
+
+ <img src="img_for_readme/6-User_dashboard.png">
+
+After logging in user will get a welcome-greetings in their respective dashboard.
+
+ <img src="img_for_readme/7-User_profile_details.png">
+
+User can see his profile data after logging in My Profile Section.
+
+ <img src="img_for_readme/8-User_edit_profile.png">
+
+User can update his profile data in the Edit Profile section.
+
+<img src="img_for_readme/9-User_change-password.png">
+ 
+User can change their password via inserting previous password of their account. In this segment login to the account is required.
+N.B. User can’t send blank or invalid text in the form it is validated through php and js valdiation.
+ 
+
+<img src="img_for_readme/10_user-order-place.png">
+
+In the cart user can select the quantity of their desired item and also can remove items. Grand total will generate automatically upon item price respected to its price. After selecting Payment Method User can proceed for checkout.
+
+ <img src="img_for_readme/11_order-history.png">
+
+Lastly after checkout, in this page user can see their Order history that was placed according to its order ID No#.
