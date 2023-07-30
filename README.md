@@ -68,51 +68,6 @@ In this project the “Admin” has the following features:
 •	Search user data using onload-function through inner-html XMLHttpRequest via jscript.
 •	Insert, Update, Delete of User’s data
 
-Impact of this Project:
-
-In this modern era purchasing products through online shopping platform is a great advantage. Nowadays mostly buyer’s prefer online shopping over conventional shopping. The buyer’s decision-making process has changed dramatically in recent years. Buyers are conducting extensive research online before ever speaking to a salesperson. Buyers are also making more direct purchases online and via their smartphone, never stepping foot into traditional brick-and-mortar locations. The internet makes doing business much easier and faster. It’s led to changes in the way people do business with a rapidly growing worldwide trend towards online shopping or e-commerce.
-
-The following benefits people will get:
-
-•	Authentic US Razer Products/Peripherals.
-•	Convenience: From anywhere in the country can purchase product with ease.
-•	Hassle-free, User-friendly purchase.
-•	Fast delivery of products.
-•	Secured purchase and secured user data information.
-•	Save time. 
-•	Availability of Wide variety / range of products.
-•	Discounts / lower prices.
-•	Can compare various models.
-
-Limitations and Possible Future Improvements:
-
-Limitations:
-
-•	Website can have delay in loading in lower end machines.
-•	There is no search button hence user can’t search the desired item through search bar.
-•	There is not quite of an optimization in user mobile view and experience.
-•	There is no such option for mobile user to switch to desktop view.
-•	If many users use the website at a time website server response can increase.
-•	There may be delay in delivery of the ordered product.
-•	May have lack of discounts compared to physical stores offered discounts.
-•	Lack of touch and feel of merchandise in online shopping.
-•	Lack of interactivity in online shopping.
-•	Lack of close examination of products in online shopping. 
-•	Products can be out of stock.
-•	There is lack in style, beautification and formatting of a document which is written in a markup language because there is barely any usage of CSS.
-
-Possible Future Improvements:
-
-•	A reliable and fast web hosting provided by data center services can be used to maintain fast server response time.
-•	Optimization of Database.
-•	Allowing a way to switch mobile visitors for a way to switch to Desktop View.
-•	Including Search key and Key search engine optimization (SEO).
-•	Better monitorization of PHP usage.
-•	Minify Scripts by removing redundant and long variables, unwanted characters, and comments
-•	Making website more responsive
-•	Restocking products before it stocks out
-•	Including CSS to control the presentation of an HTML document, text color, font style, sizing of columns, layout design and so on.
-
 Design:
  
 <img src="img_for_readme/design.png">
@@ -192,3 +147,48 @@ Admin can see his profile data after logging in Admin Profile Section.
  <img src="img_for_readme/14_search-user_data.png">
 
 In Admin Panel Searching Section, Admin can Search user data using php onload-function through inner-html XMLHttpRequest via jscript.
+
+Impact of this Project:
+
+In this modern era purchasing products through online shopping platform is a great advantage. Nowadays mostly buyer’s prefer online shopping over conventional shopping. The buyer’s decision-making process has changed dramatically in recent years. Buyers are conducting extensive research online before ever speaking to a salesperson. Buyers are also making more direct purchases online and via their smartphone, never stepping foot into traditional brick-and-mortar locations. The internet makes doing business much easier and faster. It’s led to changes in the way people do business with a rapidly growing worldwide trend towards online shopping or e-commerce.
+
+The following benefits people will get:
+
+•	Authentic US Razer Products/Peripherals.
+•	Convenience: From anywhere in the country can purchase product with ease.
+•	Hassle-free, User-friendly purchase.
+•	Fast delivery of products.
+•	Secured purchase and secured user data information.
+•	Save time. 
+•	Availability of Wide variety / range of products.
+•	Discounts / lower prices.
+•	Can compare various models.
+
+Limitations and Possible Future Improvements:
+
+Limitations:
+
+•	Website can have delay in loading in lower end machines.
+•	There is no search button hence user can’t search the desired item through search bar.
+•	There is not quite of an optimization in user mobile view and experience.
+•	There is no such option for mobile user to switch to desktop view.
+•	If many users use the website at a time website server response can increase.
+•	There may be delay in delivery of the ordered product.
+•	May have lack of discounts compared to physical stores offered discounts.
+•	Lack of touch and feel of merchandise in online shopping.
+•	Lack of interactivity in online shopping.
+•	Lack of close examination of products in online shopping. 
+•	Products can be out of stock.
+•	There is lack in style, beautification and formatting of a document which is written in a markup language because there is barely any usage of CSS.
+
+Possible Future Improvements:
+
+•	A reliable and fast web hosting provided by data center services can be used to maintain fast server response time.
+•	Optimization of Database.
+•	Allowing a way to switch mobile visitors for a way to switch to Desktop View.
+•	Including Search key and Key search engine optimization (SEO).
+•	Better monitorization of PHP usage.
+•	Minify Scripts by removing redundant and long variables, unwanted characters, and comments
+•	Making website more responsive
+•	Restocking products before it stocks out
+•	Including CSS to control the presentation of an HTML document, text color, font style, sizing of columns, layout design and so on.
